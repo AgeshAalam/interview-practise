@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96cfe66e-7d55-4f8c-93d8-725e72a13ac6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/recursion/PrintFirstNnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/recursion/SumOfEvenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/recursion/SumOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/recursion/SumOfOddRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/sort/BubbleSort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/Printevennumberindex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/CountOfStringsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/OccuranceInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/StringReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/arrays/ArraytoArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/arrays/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/arrays/PrintRepeatElemnts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/arrays/two_dim/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/HashmapIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/StackExamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/listqus/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/practise/ClassHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/practise/ClassSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/hackerrank/AddTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/hackerrank/Anagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/hackerrank/PROB1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/hackerrank/Prob2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/interfaces/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/interfaces/Sample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/interfaces/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/loops/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/loops/IF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/loops/SwitchClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/number/MOveZerosToRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/number/MoveZerosToLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/number/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/number/SumOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/practise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/sample/Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/sample/StaticClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/strings/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/strings/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/SortTopTwoElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/SumOfEvennum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/SumTargetInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/work/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/work/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/work/MakeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentMangementSystem/src/main/java/com/example/studentmanagementsysytem/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentMangementSystem/src/main/java/com/example/studentmanagementsysytem/repo/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/sonarlint/issuestore/2/6/268b09d2a5cdab7d148f0ec91f7b3fb51601410d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sonar/target/classes/org/example/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../int/int.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring/springsecurity/springsecurity/src/main/java/com/example/springsecurity/SpringsecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/DailyCodeBuffer_hibernate_tut_image.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/format.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/git commmands.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/tags.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HTML/title.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/Stack/StackEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/Stack/StackEvenOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/linearSearch/linear.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/DS/linearSearch/linear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/Acdngorder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/DataStartsWith.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/Iterate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/StringToList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/studentsort/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/JAVA8_features/studentsort/StudentMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/RemoveDupStringsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/RemoveDupStringsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/RemoveDupUsingFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/RemoveDupUsingFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/StringBufferr.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/StringBufferr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/samp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/StringsInterviewPractise/samp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/CountStringsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/CountStringsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/HashmapInteration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/RemoveDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/RemoveDuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/practise/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/collections/practise/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Sample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/exception/Sample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/factorymethod/sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/factorymethod/sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/java8_practise/Calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/java8_practise/Calc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/java8_practise/Sample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/java8_practise/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/sample/Logic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/sample/Logic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/StringQues.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/src/main/java/tricky/StringQues.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/StringToList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/StringToList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/studentsort/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/studentsort/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/studentsort/StudentMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/JAVA8_features/studentsort/StudentMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/RemoveDupStringsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/RemoveDupStringsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/RemoveDupUsingFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/RemoveDupUsingFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/StringBufferr.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/StringBufferr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/samp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/StringsInterviewPractise/samp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/CountStringsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/CountStringsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/HashmapInteration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/RemoveDuplicateElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/RemoveDuplicateElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/practise/Sample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/collections/practise/Sample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/exception/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/exception/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/exception/Sample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/exception/Sample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterviewPractise/target/classes/java8_practise/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InterviewPractise/target/classes/java8_practise/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StudyBuddy-Dev/Solution/StudyBuddy/src/main/java/com/example/demo/AppUserRepo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/src/main/java/com/example/demospringblog/DemoSpringBlogApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/src/main/java/com/example/demospringblog/model/Post.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-spring-blog/src/test/java/com/example/demospringblog/DemoSpringBlogApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/DemoSpringdatajpaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/DemoSpringdatajpaApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/CourseMaterial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/CourseMaterial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Guardian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Guardian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/entity/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/repositiry/CourseMaterialRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/repositiry/CourseMaterialRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/repositiry/StudentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/java/com/example/demospringdata/jpa/repositiry/StudentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-springdatajpa/src/test/java/com/example/demospringdata/jpa/DemoSpringdatajpaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-springdatajpa/src/test/java/com/example/demospringdata/jpa/DemoSpringdatajpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/demo_jar/demo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/java/com/example/demostudy/AppUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/java/com/example/demostudy/Candidate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/java/com/example/demostudy/DemoStudyApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/java/com/example/demostudy/LearningBlocker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/java/com/example/demostudy/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/demo-study/src/test/java/com/example/demostudy/DemoStudyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../edu_training/studybuddy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview_programs/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_programs/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview_programs/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_programs/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interview_programs/src/com/company/string/FirstRepeatChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../interview_programs/src/com/company/string/FirstRepeatChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/Microservices Project.postman_collection.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/src/main/java/com/programming/techie/apigatewayservice/ApiGatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/src/main/java/com/programming/techie/apigatewayservice/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/api-gateway-service/api-gateway-service/src/test/java/com/programming/techie/apigatewayservice/ApiGatewayServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/src/main/java/com/programming/techie/configurationserver/ConfigurationServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/configuration-server/configuration-server/src/test/java/com/programming/techie/configurationserver/ConfigurationServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/.idea/discovery-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/src/main/java/com/programming/techie/discoveryserver/DiscoveryServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/discovery-server/discovery-server/src/test/java/com/programming/techie/discoveryserver/DiscoveryServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/inventory-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_github_stephenc_jcip_jcip_annotations_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_10_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_aws_brave_propagation_aws_0_21_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_context_slf4j_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_http_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpasyncclient_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_httpclient_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_jms_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_clients_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_kafka_streams_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_messaging_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_mongodb_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_rpc_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_brave_brave_instrumentation_spring_rabbit_5_13_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_brave_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_reporter_metrics_micrometer_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_activemq_client_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_amqp_client_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__io_zipkin_reporter2_zipkin_sender_kafka_2_16_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__net_logstash_logback_logstash_logback_encoder_6_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_14.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_43.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_43.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_28_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_7_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_3_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_oauth2_resource_server_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_bus_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_context_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_function_core_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_api_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_autoconfigure_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_brave_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_instrumentation_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_sleuth_zipkin_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bootstrap_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_bus_amqp_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_sleuth_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_stream_rabbit_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_vault_config_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_stream_binder_rabbit_core_3_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_vault_config_3_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_integration_spring_integration_amqp_5_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_integration_spring_integration_core_5_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_integration_spring_integration_jmx_5_4_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_core_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_jose_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_oauth2_resource_server_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_4_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_context_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_expression_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_messaging_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_springframework_vault_spring_vault_core_2_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/gitIntelliJ/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/gitIntelliJ/src/main/java/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/gitIntelliJ/src/test/java/ClassTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/inventory-service-credentials.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/main/java/com/programming/techie/InventoryServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/main/java/com/programming/techie/controller/InventoryRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/main/java/com/programming/techie/model/Inventory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/main/java/com/programming/techie/repository/InventoryRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/inventory-service/inventory-service/src/test/java/com/programming/techie/InventoryServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/src/main/java/com/programming/techie/notificationservice/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/src/main/java/com/programming/techie/notificationservice/NotificationServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/notification-service/notification-service/src/test/java/com/programming/techie/notificationservice/NotificationServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/order-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/OrderServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/client/InventoryClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/dto/OrderDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/model/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/model/OrderLineItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/java/com/programming/techie/orderservice/repository/OrderRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/resources/bootstrap.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/order-service/order-service/src/test/java/com/programming/techie/orderservice/OrderServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/product-service.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/ProductServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/controller/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/model/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/java/com/programming/techie/productservice/repository/ProductRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-retail/springboot-microservices-project-master/product-service/product-service/src/test/java/com/programming/techie/productservice/ProductServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/.idea/libraries/Maven__com_h2database_h2_2_1_210.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/src/main/java/com/company/training/Candidate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/src/main/java/com/company/training/LearningBlocker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/src/main/java/com/company/training/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../training_project/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FMEBUvBdZ7vme62YsAvfiwIW9Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/demo&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96cfe66e-7d55-4f8c-93d8-725e72a13ac6" name="Changes" comment="" />
+      <created>1664293417540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664293417540</updated>
+      <workItem from="1664293418783" duration="75000" />
+      <workItem from="1670931745250" duration="646000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="first_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

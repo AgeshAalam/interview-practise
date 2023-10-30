@@ -5,8 +5,9 @@ import java.util.Collection;
 import java.util.List;
 
 public class Sample {
-    public static void main(String[] args) {
+   public static void main(String[] args) {
 
-        Collection<String> list=new ArrayList<>();
-    }
+      Collection<String> list = new ArrayList<>();
+
+   }
 }
